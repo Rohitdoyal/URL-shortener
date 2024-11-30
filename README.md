@@ -68,7 +68,7 @@ uvicorn app:app --reload
 
 
 
-# For Test the api 
+# For Test the API 
 I write another script in test folder testapi.py
 In this file i wrote function where i am calling the api 
 
